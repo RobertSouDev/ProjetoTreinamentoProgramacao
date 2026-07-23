@@ -1,6 +1,8 @@
 # ProjetoTreinamentoProgramacao
 
-Um projeto para treina programação
+## Um projeto para treina programação
+
+## dia 3
 
 @RobertSouDev ➜ /workspaces/ProjetoTreinamentoProgramacao (main) $ node -v
 v24.14.0
@@ -37,3 +39,17 @@ v18.20.8
 @RobertSouDev ➜ /workspaces/ProjetoTreinamentoProgramacao (main) $ nvm --help
 
 ---
+
+## dia 3 f11
+
+dia 4
+f12 pista rapida --- ok
+f13 Protocolos e rodando o site de forma local --- ok
+f14 Página inicial ---
+f15 Um desafio importante
+
+---
+
+dia 5
+f17 Onde fica o Git E como era feito antes disso
+f18 Git Log (e o Jogo dos 7 Erros)
