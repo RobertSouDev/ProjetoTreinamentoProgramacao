@@ -43,13 +43,14 @@ v18.20.8
 ## dia 3 f11
 
 dia 4
-f12 pista rapida --- ok
-f13 Protocolos e rodando o site de forma local --- ok
-f14 Página inicial ---
-f15 Um desafio importante
+f12 pista rapida --- ok✅
+f13 Protocolos e rodando o site de forma local --- o✅
+f14 Página inicial ---✅
+f15 Um desafio importante✅
 
 ---
 
 dia 5
-f17 Onde fica o Git E como era feito antes disso
-f18 Git Log (e o Jogo dos 7 Erros)
+f17 Onde fica o Git E como era feito antes disso✅
+f18 Git Log (e o Jogo dos 7 Erros)✅
+f19. Git Commit (e a Escada Infinita)
