@@ -50,6 +50,7 @@ Repositório dedicado ao acompanhamento de estudos, anotações de aulas e teste
 - [x] **F26** — Client e Server
 - [x] **F27** — Hospedagem e Deploy
 - [x] **F28** — Fazendo novos Deploys
+- [x] **F29** — Encerramento do Desafio (Resultados de todo mundo) 🎉
 
 ---
 
