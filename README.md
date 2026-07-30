@@ -37,14 +37,6 @@ Repositório dedicado ao acompanhamento de estudos, anotações de aulas e teste
 
 ---
 
-## 📝 Dia 6 diferença entre origin/main e local/main
+## 📝 Anotações Gerais & Lembretes
 
-- [ ] **F22** — Git Push e Git Pulll
-
----
-
-## 📝 Dia
-
-- [ ] **F** —
-
----
+- Usar caixas de seleção (`- [x]` e `- [ ]`) facilita visualizar rapidamente o que já foi concluído e o que falta.
