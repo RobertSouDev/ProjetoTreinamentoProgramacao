@@ -45,6 +45,14 @@ Repositório dedicado ao acompanhamento de estudos, anotações de aulas e teste
 
 ---
 
+### 🗓️ Dia 7:
+
+- [x] **F26** — Client e Server
+- [x] **F27** — Hospedagem e Deploy
+- [x] **F28** — Fazendo novos Deploys
+
+---
+
 ## 📝 Anotações Gerais & Lembretes
 
 - Usar caixas de seleção (`- [x]` e `- [ ]`) facilita visualizar rapidamente o que já foi concluído e o que falta.
