@@ -37,6 +37,14 @@ Repositório dedicado ao acompanhamento de estudos, anotações de aulas e teste
 
 ---
 
+### 🗓️ Dia 6: Git
+
+- [x] **F22** — Git push
+- [x] **F23** — Fazendo commits de forma mais rápida
+- [x] **F24** — Git Push De Novo (mas agora com ainda mais força)
+
+---
+
 ## 📝 Anotações Gerais & Lembretes
 
 - Usar caixas de seleção (`- [x]` e `- [ ]`) facilita visualizar rapidamente o que já foi concluído e o que falta.
