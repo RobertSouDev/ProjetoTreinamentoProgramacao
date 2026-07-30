@@ -32,11 +32,19 @@ Repositório dedicado ao acompanhamento de estudos, anotações de aulas e teste
 
 - [x] **F17** — Onde fica o Git e como era feito antes disso
 - [x] **F18** — Git Log (e o Jogo dos 7 Erros)
-- [ ] **F19** — Git Commit (e a Escada Infinita)
-- [ ] **F20** — Git Diff e Amend (e a Viagem no Tempo)
+- [x] **F19** — Git Commit (e a Escada Infinita)
+- [x] **F20** — Git Diff e Amend (e a Viagem no Tempo)
 
 ---
 
-## 📝 Anotações Gerais & Lembretes
+## 📝 Dia 6 diferença entre origin/main e local/main
 
-- Usar caixas de seleção (`- [x]` e `- [ ]`) facilita visualizar rapidamente o que já foi concluído e o que falta.
+- [ ] **F22** — Git Push e Git Pulll
+
+---
+
+## 📝 Dia
+
+- [ ] **F** —
+
+---
