@@ -54,6 +54,21 @@ Repositório dedicado ao acompanhamento de estudos, anotações de aulas e teste
 
 ---
 
+### 🗓️ Dia 8:
+
+- [x] **F32** — Programação Orgânica versus Impressora 3D
+- [x] **F33** — Por que meus projetos sempre dão certo
+
+---
+
+### 🗓️ Dia 9:
+
+- [x] **F35** — Qual o “segredo” para organização de tarefas
+- [x] **F36** — Como peitar projetos de qualquer tamanho
+- [x] **F37** — Criando a primeira Milestone e Issues d Projeto
+
+---
+
 ## 📝 Anotações Gerais & Lembretes
 
 - Usar caixas de seleção (`- [x]` e `- [ ]`) facilita visualizar rapidamente o que já foi concluído e o que falta.
